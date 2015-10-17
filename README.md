@@ -1,4 +1,4 @@
-#Material
-### Work In Progress.
+#Profile page
+### Based on Google Material Design with responsive web design
 
-Take a sneak peek [here](https://umitems.github.io/)
+[Umitems](https://umitems.github.io/)
