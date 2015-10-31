@@ -15,3 +15,5 @@ permalink: /about/
 [Github](https://github.com/umitems)
 
 [Code school](https://www.codeschool.com/users/umitems)
+
+[UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)
