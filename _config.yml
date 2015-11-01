@@ -30,7 +30,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and UI designer. Check out my projects on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://umitems.github.io/" # the base hostname & protocol for your site
-twitter_username: navvenshady
+twitter_username: umitems
 github_username:  umitems
 css: "cyan"
 scroll-cursor: "#00BCD4"
@@ -41,3 +41,4 @@ markdown: kramdown
 highlighter: pygments #pygments
 lsi: false
 safe: false
+encoding: UTF-8
