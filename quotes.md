@@ -24,3 +24,7 @@ Shīqù bìng bùkě pà, kě pà de shì nǐ zhízhuó yú “shīqù” zhège
 
 CFO asks CEO: "What happens if we invest in developing our people & then they leave us?" 
 CEO: 'What happens if we don't, and they stay?"
+
+“Our lives are not our own. 
+We are bound to others, past and present, and by each crime and every kindness, we birth our future.” 
+David Mitchell, Cloud Atlas
