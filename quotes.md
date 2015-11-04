@@ -28,3 +28,7 @@ CEO: 'What happens if we don't, and they stay?"
 “Our lives are not our own. 
 We are bound to others, past and present, and by each crime and every kindness, we birth our future.” 
 David Mitchell, Cloud Atlas
+
+Every day create your history
+Every path you take you're leaving your legacy
+Michael Jackson song "HISTORY"
