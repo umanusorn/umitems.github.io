@@ -32,7 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://umitems.github.io/" # the base hostname & protocol for your site
 twitter_username: umitems
 github_username:  umitems
-css: "blue"
+css: "green"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
