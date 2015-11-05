@@ -22,13 +22,16 @@ Shīqù bìng bùkě pà, kě pà de shì nǐ zhízhuó yú “shīqù” zhège
 การสูญเสียไม่น่ากลัว ที่น่ากลัวก็คือความคิดของเธอที่ยังยึดติดกับการสูญเสียไม่ปล่อยวาง 
 [site](http://bbs.tianya.cn/post-english-195274-1.shtml)
 
-CFO asks CEO: "What happens if we invest in developing our people & then they leave us?" 
+<h5>CFO asks CEO: "What happens if we invest in developing our people & then they leave us?"</h5> 
 CEO: 'What happens if we don't, and they stay?"
 
-“Our lives are not our own. 
+<h5>“Our lives are not our own.</h5> 
 We are bound to others, past and present, and by each crime and every kindness, we birth our future.” 
 David Mitchell, Cloud Atlas
 
-Every day create your history
-Every path you take you're leaving your legacy
+<h5>Every day create your history</h5>
+<h5>Every path you take you're leaving your legacy</h5>
 Michael Jackson song "HISTORY"
+
+<h5>Don't Think you are.Know you are.</h5>
+The Matrix
