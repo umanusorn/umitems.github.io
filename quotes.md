@@ -41,3 +41,7 @@ Michael Jackson song "HISTORY"
 <br>
 <h5>Don't Think you are.Know you are.</h5>
 The Matrix
+
+<br>
+<h5>“We are only what we know” </h5>
+David Mitchell, Cloud Atlas
