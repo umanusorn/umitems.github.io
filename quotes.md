@@ -45,3 +45,11 @@ The Matrix
 <br>
 <h5>“We are only what we know” </h5>
 David Mitchell, Cloud Atlas
+
+<br>
+Better phone is mobile phone<br> 
+Best phone is invisible and not exist.<br>
+<h5>The best software doesn't Exist!</h5>
+Because : <br>
+User want result not your program.<br>
+BugDay Bangkok 2012
