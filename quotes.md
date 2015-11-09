@@ -53,3 +53,7 @@ Best phone is invisible and not exist.<br>
 Because : <br>
 User want result not your program.<br>
 BugDay Bangkok 2012
+
+<br>
+<h5>Consider how hard it is to change yourself<br> 
+and you’ll understand what little chance you have in trying to change others.</h5>
