@@ -57,3 +57,7 @@ BugDay Bangkok 2012
 <br>
 <h5>Consider how hard it is to change yourself<br> 
 and you’ll understand what little chance you have in trying to change others.</h5>
+
+<br>
+<h5>Wrong question wrong answer</h5>
+Teerasak Kroputaponchai
