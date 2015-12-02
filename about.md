@@ -14,4 +14,4 @@ permalink: /about/
 
 [Code school](https://www.codeschool.com/users/umitems)
 
-[UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)
+[UVa Online Judge](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=20&page=show_authorstats&userid=32097)
