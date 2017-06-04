@@ -4,18 +4,15 @@ title: Quotes
 permalink: /quotes/
 ---
 
-<h5>Be your own instructor.</h5>
-อตฺตนา โจทยตฺตานํ - จงเตือนตนด้วยตนเอง
-<br>
-
 <h5>Perfection is achieved,<br>
 not when there is nothing more to add,<br>
 but when there is nothing left to take away.</h5> 
 Antoine de Saint-Exupery
 
-<br>
-<h5>ตนเตือนตนของตนให้พ้นผิด    ตนเตือนจิตตนได้ใครจะเหมือน<br>
-ตนเตือนตนไม่ได้ใครจะเตือน   อย่าแชเชือนรีบเตือนตนให้พ้นภัย<br></h5> 
+<h5>Be your own instructor.</h5>
+อตฺตนา โจทยตฺตานํ - จงเตือนตนด้วยตนเอง<br>
+ตนเตือนตนของตนให้พ้นผิด    ตนเตือนจิตตนได้ใครจะเหมือน<br>
+ตนเตือนตนไม่ได้ใครจะเตือน   อย่าแชเชือนรีบเตือนตนให้พ้นภัย<br>
 ท่านพุทธทาศ
 
 <br>
